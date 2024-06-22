@@ -24,7 +24,7 @@
 
 </p>
 
-📊 GitHub Trophies:
+## 📊 GitHub Trophies:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizazahid11&label=Profile%20views&color=ffffff&style=flat" alt="alizazahid11" /> </p>
 
