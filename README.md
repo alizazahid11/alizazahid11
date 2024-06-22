@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
-<img align="center" alt="coding" width=650px src="https://cdn.dribbble.com/users/8705010/screenshots/16534181/media/b1c2b3833775abc2380fd4c2d35e1017.png?resize=768x576&vertical=center" style="margin-left:50px"/>
+<img align="center" alt="coding" width=650px src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" style="margin-left:50px"/>
 <p><h3 >About Me</h3></p>
 <p>Hello! I'm a passionate and versatile developer with a strong foundation in full-stack development and a growing interest in artificial intelligence and machine learning.</p>
 
