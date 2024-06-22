@@ -16,8 +16,8 @@
 - **MERN Stack Developer**: Experienced in building robust web applications using MongoDB, Express.js, React, and Node.js.
 - **C/C++ and Python Developer**: Proficient in developing efficient and high-performance applications, leveraging my skills in C, C++, and Python.
   
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="color: lightgreen;">
+<h3 >Connect with me:</h3>
+<p a style="color: lightgreen;">
   <a href="www.linkedin.com/in/aliza-zahid-a90aa7246" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliza zahid" height="30" width="40" />
   </a>
