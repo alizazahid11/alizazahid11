@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
-
+<p><h3 align="center">About Me</h3></p>
+<p>Hello! I'm a passionate and versatile developer with a strong foundation in full-stack development and a growing interest in artificial intelligence and machine learning.</p>
+<p><h3 align="center">Professional Experience</h3></p>
+<p>- MERN Stack Developer: Experienced in building robust web applications using MongoDB, Express.js, React, and Node.js.
+   - C/C++ and Python Developer: Proficient in developing efficient and high-performance applications, leveraging my skills in C, C++, and Python.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizazahid11&label=Profile%20views&color=ffffff&style=flat" alt="alizazahid11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizazahid11" alt="alizazahid11" /></a> </p>
