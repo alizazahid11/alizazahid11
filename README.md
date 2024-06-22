@@ -2,6 +2,7 @@
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 <p><h3 >About Me</h3></p>
 <p>Hello! I'm a passionate and versatile developer with a strong foundation in full-stack development and a growing interest in artificial intelligence and machine learning.</p>
+
 - 🌱 I’m currently learning **Gen AI , Machine Learning**
 
 - 💬 Ask me about **html,css,js,mern,cpp,c**
