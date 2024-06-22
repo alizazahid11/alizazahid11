@@ -18,15 +18,10 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="color: lightgreen;">
-  <a href="https://linkedin.com/in/urooj khalid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urooj khalid" height="30" width="40" />
+  <a href="www.linkedin.com/in/aliza-zahid-a90aa7246" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliza zahid" height="30" width="40" />
   </a>
-  <a href="https://fb.com/urooj khalid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="urooj khalid" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/iurooj_khalid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iurooj_khalid" height="30" width="40" />
-  </a>
+
 </p>
 
 📊 GitHub Trophies:
