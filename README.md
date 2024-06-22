@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
+<img align="center" alt="coding" width=650px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 <p><h3 >About Me</h3></p>
 <p>Hello! I'm a passionate and versatile developer with a strong foundation in full-stack development and a growing interest in artificial intelligence and machine learning.</p>
