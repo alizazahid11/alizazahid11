@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="coding" width="650px" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" />
 </p>
-<p><h3 >About Me</h3></p>
+<p><h1 >About Me</h1></p>
 <p>Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
 
 - 🌱 I’m currently learning **Gen AI , Machine Learning**
@@ -15,12 +15,12 @@
 
 - 👩🏻‍💻 Studying **BS(Computer Science) from UBIT**
 
-<h3>Professional Experience</h3> 
+<h2>Professional Experience</h2> 
 
 - **MERN Stack Developer**: Experienced in building robust web applications using MongoDB, Express.js, React, and Node.js.
 - **C/C++ and Python Developer**: Proficient in developing efficient and high-performance applications, leveraging my skills in C, C++, and Python.
   
-<h3 >Connect with me:</h3>
+<h1 >Connect with me:</h1>
 <p a style="color: lightgreen;">
   <a href="www.linkedin.com/in/aliza-zahid-a90aa7246" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliza zahid" height="30" width="40" />
