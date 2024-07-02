@@ -7,7 +7,7 @@
 <p><h1 >About Me</h1></p>
 <p>Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
 
-- 🌱 I’m currently learning **Gen AI , Machine Learning**
+- 🌱 I’m currently learning **Data scientist with python**
 
 - 💬 Ask me about **html,css,js,mern,cpp,c**
 
