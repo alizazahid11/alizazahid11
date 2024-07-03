@@ -3,15 +3,14 @@
   <img src="https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image%20(2).png?raw=true" alt="Header"/>
 </p>
 
+<p><h1 >About Me</h1></p>
+<p>Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
 
 
-
-<h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 <p align="center">
   <img alt="coding" width="650px" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" />
 </p>
-<p><h1 >About Me</h1></p>
-<p>Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
+
 
 - 🌱 I’m currently learning **Data scientist with python**
 
