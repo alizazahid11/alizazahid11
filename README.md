@@ -1,5 +1,8 @@
 
-![Header](https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alizazahid11/alizazahid11/main/github-header-image.png" alt="Header"/>
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
