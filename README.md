@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image%20(2).png?raw=true" alt="Header"/>
 </p>
+<h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
+<h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 
 <p align="center"><h1 >About Me</h1></p>
 <p align="center">Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
