@@ -5,7 +5,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 <p align="center">
