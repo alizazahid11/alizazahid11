@@ -1,4 +1,6 @@
-<p align="center">![Header](https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image.png?raw=true)</p>
+<p align="center"> 
+  ![Header](https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image.png?raw=true)
+</p>
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
