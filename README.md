@@ -8,7 +8,8 @@
 <p align="center"><h1>About Me</h1></p>
 <p align="left">
   <img align="right" alt="coding" width="300px" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" />
-  Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape. I'm currently diving into data science, and my interest is in AI too.
+  Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications using MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I'm currently diving into data science and am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+
 </p>
 
 - 🌱 I’m currently learning **Data science with Python**
