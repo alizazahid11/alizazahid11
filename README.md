@@ -20,10 +20,6 @@
 
 - 👩🏻‍💻 Studying **BS(Computer Science) from UBIT**
 
-<h2>Professional Experience</h2> 
-
-- **MERN Stack Developer**: Experienced in building robust web applications using MongoDB, Express.js, React, and Node.js.
-- **C/C++ and Python Developer**: Proficient in developing efficient and high-performance applications, leveraging my skills in C, C++, and Python.
   
 <h3 >Connect with me:</h3>
 <p a style="color: lightgreen;">
