@@ -5,18 +5,15 @@
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 
-<p align="center"><h1 >About Me</h1></p>
-<p align="center">Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.</p>
-
-
-<p align="center">
-  <img alt="coding" width="650px" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" />
+<p align="center"><h1>About Me</h1></p>
+<p align="left">
+  <img align="right" alt="coding" width="300px" src="https://cdn.dribbble.com/users/974028/screenshots/16485112/media/78ff1807a5abed2e95c467f0f0c116ca.gif" />
+  Hello! I'm a passionate and experienced MERN Stack developer with a solid foundation in full-stack development. I thrive on crafting robust web applications that leverage MongoDB, Express.js, React, and Node.js to deliver seamless user experiences. My journey into the realm of artificial intelligence and machine learning has ignited a deep interest in leveraging data-driven insights to innovate and solve complex challenges. I am committed to continuously expanding my skills and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 </p>
-
 
 - 🌱 I’m currently learning **Data scientist with python**
 
-- 💬 Ask me about **html,css,js,mern,cpp,c**
+- 💬 Ask me about **html, css, js, mern, cpp, c**
 
 - 📫 How to reach me **alizayzah11@gmail.com**
 
