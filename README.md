@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/alizazahid11/alizazahid11/blob/main/github-header-image%20(3).png?raw=true" alt="Header"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm Aliza Zahid</h1>
 <h3 align="center">MERN Stack Devloper | c/cpp Developer | Python Developer</h3>
 
